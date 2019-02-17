@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+  margin:  0 auto;
+}
+
+.App {
+  width: 90%;
+  margin: auto;
+}
